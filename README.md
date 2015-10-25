@@ -1,6 +1,8 @@
 # ExplorerProgramIdeaHack
 Winning Idea Hack for the Explorer Program
 
+Team: Hugh Sato, Annie Darmofal, John Ehlinger, Stephanie Castillo
+
 So there are a couple of things happening in here.
 
 1. The Explorer Program PDF and PPTX are both the same copy of the final presentation presented on October 23, 2015 to the Explorer Program, with 4 total teams presenting ideas from the 24 hour hackathon.
